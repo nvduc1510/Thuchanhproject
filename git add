@@ -1,0 +1,15 @@
+warning: in the working copy of 'index1.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/index1.html b/index1.html[m
+[1mindex c429126..e9dca0f 100644[m
+[1m--- a/index1.html[m
+[1m+++ b/index1.html[m
+[36m@@ -14,7 +14,7 @@[m
+         <b>TPO - Truyền thông Hàn nhận định màn ra mắt của Jennie trong vai trò diễn viên phim "The Idol" là sự sụp đổ của “Chanel sống”. Bộ phim "The Glory" của Song Hye Kyo cũng bất ngờ bị fan kéo vào cuộc tranh cãi này.</b>[m
+         Làn sóng chỉ trích của dư luận dành cho Jennie và bộ phim The Idol không có dấu hiệu dừng lại. Bộ phim hứng chịu đánh giá tiêu cực sau khi tập 1 phát sóng. Truyền thông Hàn Quốc cho rằng The Idol khiến Jennie lỗ nhiều hơn lãi.[m
+         <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1cdD7G.img?w=612&h=340&m=6&x=178&y=173&s=689&d=184" alt="">[m
+[31m-[m
+[32m+[m[32ma[m
+     </p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
